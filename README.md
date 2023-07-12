@@ -1,6 +1,6 @@
 ### Hi there, I'm Richard 👋
 
-<strong>I'm a Senior Database Engineer, Consultant, and Automation Advocate.</strong>
+<strong>I'm a Senior Database Engineer, Consultant, and DBA Advocate.</strong>
 
 I'm a Senior Database Engineer, Consultant, and DBA Advocate, with an rich background in modernizing database workflows. I have amassed considerable experience creating state-of-the-art, user friendly database automation. As a Database Administration Advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to deliver exceptional database experience.
 
