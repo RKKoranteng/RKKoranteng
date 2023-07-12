@@ -25,7 +25,7 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.os }}-js-
       - name: Install dependencies
-        run: npm ci
+        run: npm install
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
