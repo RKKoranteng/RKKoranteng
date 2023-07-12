@@ -1,4 +1,4 @@
-### Hi there, I'm Richard 👋
+# Hi there, I'm Richard 👋
 
 <strong>I'm a Senior Database Engineer, Consultant, and DBA Advocate.</strong>
 
@@ -15,8 +15,8 @@ I write a lot on a wide range of topics regarding database engineering and every
 
 My latest articles:
 
-## Social 📱
+## Social 👍
 You can find me on the following social media platforms or send me an email:
-* 👔[LinkedIn](https://www.linkedin.com/in/richard-koranteng-20942a125?trk=prof-samename-name)
-* 🗣[Twitter](https://twitter.com/RKKoranteng)
-* ✉️ [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
+* 👔  [LinkedIn](https://www.linkedin.com/in/richard-koranteng-20942a125?trk=prof-samename-name)
+* 🗣  [Twitter](https://twitter.com/RKKoranteng)
+* ✉  [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
