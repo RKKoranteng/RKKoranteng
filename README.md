@@ -2,11 +2,11 @@
 
 <strong>I'm a Senior Database Engineer, Consultant, and DBA Advocate.</strong>
 
-I'm a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments. I spend my time creating solutions for automating database lifecycle. As a Database Administration Advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to deliver exceptional database experience.
+I am a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments. I spend my time creating solutions for automating database lifecycle. As a Database Administration Advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to deliver exceptional database experience.
 
 I have a unique perspective on database administration, combining my experience in both development and administration to deliver exceptional results for clients. My approach to database administration is always user-centered, ensuring that the end product is not only functional but also cost effective, but also intuitive and easy to use.
 
-I've worked with a wide range of organizations, including large multinational corporations and federal agencies, and have helped them overcome challenges to achieve their goals. In my current role as a Senior Database Engineer, I continue to deliver innovative, user-centered database solutions that exceed expectations.
+I have worked with a wide range of organizations, including large multinational corporations and federal agencies, and have helped them overcome challenges to achieve their goals. In my current role as a Senior Database Engineer, I continue to deliver innovative, user-centered database solutions that exceed expectations.
 
 In conclusion, my skills, experience, and passion make me a valuable asset to any organization. I am excited about the prospect of contributing to an organization's mission of delivering exceptional database experiences and look forward to the opportunity to discuss my qualifications further.
 
