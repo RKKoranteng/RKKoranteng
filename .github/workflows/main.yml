@@ -6,33 +6,18 @@ on:
       - main
   #schedule:
   #  - cron: "5 8 * * 0" # Every Sunday
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  build:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout current repository to Main branch
-        uses: actions/checkout@v2
-      - name: Setup Node.js 18.x
-        uses: actions/setup-node@v2
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          node-version: "18.x"
-      - name: Cache dependencies and build outputs to improve workflow execution time.
-        uses: actions/cache@v2
-        with:
-          path: ~/.npm
-          key: ${{ runner.os }}-js-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-js-
-      - name: Install dependencies
-        run: npm install
-      - name: Generate README file
-        run: node index.js
-      - name: Commit and Push new README.md to the repository
-        #uses: stefanzweifel/git-auto-commit-action@v4
-        uses: mikeal/publish-to-github-action@master
-        with:
-          commit_message: Update README.md
-          commit_options: "--no-verify"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          feed_list: "https://rkkoranteng.com/feed/"
