@@ -18,7 +18,7 @@ My latest articles:
 - [STScI: Migrate An Oracle DB To SQL Server](https://rkkoranteng.com/2021/08/09/stsci-migrate-an-oracle-db-to-sql-server/)
 <!-- BLOG-POST-LIST:END -->
 
-## Social 👍
+### Social 👍
 You can find me on the following social media platforms or send me an email:
 * 👔  [LinkedIn](https://www.linkedin.com/in/richard-koranteng-20942a125?trk=prof-samename-name)
 * 🗣  [Twitter](https://twitter.com/RKKoranteng)
