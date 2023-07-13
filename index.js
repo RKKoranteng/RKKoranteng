@@ -12,12 +12,12 @@ const getArticles = async () => {
     const result = await fetch('https://rkkoranteng.com/wp-json/wp/v2/posts')
         .then(response => response.json())
 
-    return result.articles.map(({ title, slug }) => ({ title, slug }));
+    return result.posts.map(({ title, slug }) => ({ title, slug }));
 }
 
 const generateReadMe = async () => {
     const readMeData = {
-        articles: (await getArticles()).slice(0, 5)
+        posts: (await getArticles()).slice(0, 5)
     };
 
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
