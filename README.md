@@ -4,7 +4,7 @@ _I'm on a quest to save the tech world, one pipeline at a time_
 
 <strong>I'm a Senior Database Engineer, Consultant, and DBA Advocate.</strong>
 
-I am a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments. I spend my time creating solutions to automate database lifecycle. As a Database Administration Advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to deliver exceptional database experience. I spend my free time 🏋️ or watching some history documentaries.
+I am a Senior Database Engineer, Consultant, and DBA Advocate, with a passion for modernizing database environments. I spend my time creating solutions to automate database lifecycle. As a Database Administration Advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to deliver exceptional database experience. I spend my free time doing dad stuff & honey-do list 😏.
 
 ### Blog 📝
 I write a lot on a wide range of topics regarding database engineering and everything linked to that. You can have a look at [rkkoranteng.com](https://www.rkkoranteng.com)!
