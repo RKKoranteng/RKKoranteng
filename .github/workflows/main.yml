@@ -29,7 +29,8 @@ jobs:
       - name: Generate README file
         run: node index.js
       - name: Commit and Push new README.md to the repository
-        uses: stefanzweifel/git-auto-commit-action@v4
+        #uses: stefanzweifel/git-auto-commit-action@v4
+        uses: mikeal/publish-to-github-action@master
         with:
           commit_message: Update README.md
           commit_options: "--no-verify"
