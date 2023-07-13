@@ -1,4 +1,4 @@
-_I'm on a quest to save the tech world, one pipeline at a time_
+_I'm on a quest to save the world, one database at a time!_
 
 ## Hi there, I'm Richard<a href="https://www.rkkoranteng.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
