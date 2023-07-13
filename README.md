@@ -14,6 +14,8 @@ In conclusion, my skills, experience, and passion make me a valuable asset to an
 I write a lot on a wide range of topics regarding database engineering and everything linked to that. You can have a look at [rkkoranteng.com](https://www.rkkoranteng.com)!
 
 My latest articles:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Social 👍
 You can find me on the following social media platforms or send me an email:
