@@ -9,7 +9,7 @@ String.prototype.splice = function (idx, rem, str) {
 };
 
 const getArticles = async () => {
-    const result = await fetch('https://rkkoranteng.com')
+    const result = await fetch('https://rkkoranteng.com/api/content/articles')
         .then(response => response.json())
 
     return result.articles.map(({ title, slug }) => ({ title, slug }));
