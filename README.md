@@ -8,5 +8,4 @@ I am a Database Engineer, Consultant, and DBA Advocate with a passion for modern
 
 You can find me on the following social media platforms or send me an email:
 * 👔  [LinkedIn](https://www.linkedin.com/in/richard-koranteng-20942a125?trk=prof-samename-name)
-* 🗣  [Twitter](https://twitter.com/RKKoranteng)
 * ✉  [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
