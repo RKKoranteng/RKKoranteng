@@ -5,8 +5,8 @@ Wow, you made it to the form! That's great for both of us. This is the place whe
 * 🔭  I’m currently working on something cool 😉
 * 🌱  I’m currently learning Python and Bicep
 * 💬  Ask me about anything related to databases or how to automate database workloads
-* 👨‍💻  Read more about [my agile journey (coming coon)](#)
-* ⚡  Fun fact: I ❤️ 🏋️ and ⚽
+* 👨‍💻  Checkout my website [rkkoranteng.com)](https://rkkoranteng.com)
+* ⚡  Fun fact: I ❤️ 🏋️
 
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
