@@ -11,9 +11,9 @@ Wow, you made it to the form! That's great for both of us. This is the place whe
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
 
-###🔗 &nbsp; Connect with me
+### 🔗 &nbsp; Connect with me
 * <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a>
 * <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">LinkedIn</a>
 
-###✨ &nbsp; About Me
+### ✨ &nbsp; About Me
 I'm a Database Engineer, Consultant, and DBA Advocate with 10+ years of experience making databases do cool stuff. I spend my time creating solutions to automate database challenges. As a DBA advocate, I take immense joy in sharing my expertise with fellow DBA's and empowering them with the tools, resources, and support needed to modernize their database ecosystems. That said, all of my projects are released as open-source on GitHub.
