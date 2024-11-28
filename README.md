@@ -16,6 +16,7 @@ Wow, you made it to the form! That's great for both of us. This is the place whe
 🔗 &nbsp; **Connect with me**
 * <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a>
 * <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">LinkedIn</a>
+* Got an offer for me? Reach me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
 
 ✨ &nbsp; **About Me**
