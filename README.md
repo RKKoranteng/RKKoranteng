@@ -1,23 +1,19 @@
 ### Hi, welcome <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Wow, you made it to the form! That's great for both of us. This is the place where I open-source stuff 👍
+Wow, you made it to my GitHub! That's great for both of us. This is the place where I open-source stuff 👍
 
-* 🔭  I’m currently working on something cool 😉
-* 🌱  I’m currently learning Python and Bicep
+* 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 😉
 * 💬  Ask me about anything related to databases or how to automate database workloads
-* 👨‍💻  Checkout my website [rkkoranteng.com](https://rkkoranteng.com)
+* 👨‍💻  I help businesses modernize their database ecosystem <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
+* 🌱  Check out my blog : [@my-agile-journey](https://rkkoranteng.github.io/my-agile-journey/)
 * ⚡  Fun fact: I ❤️ 🏋️
-
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
-
-
 🔗 &nbsp; **Connect with me**
-* <a href="https://dev.to/rkkoranteng" target="blank">Dev.to</a>
-* <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">LinkedIn</a>
-* Got an offer for me? Reach me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
-
+* Agile database consulting <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
+* LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
+* Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
 ✨ &nbsp; **About Me**
 
