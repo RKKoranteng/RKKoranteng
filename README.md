@@ -1,6 +1,21 @@
 _I'm on a quest to save the world, one database at a time!_
 
-## Hi there, I'm Richard<a href="https://www.rkkoranteng.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi, welcome <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+Wow, you made it to the form! That's great for both of us. This is the place where I open-source stuff 👍
+
+* 🔭  I’m currently working on something cool 😉
+* 🌱  I’m currently learning Python and Bicep
+* 💬  Ask me about anything related to databases or how to automate database workloads
+* 👨‍💻  Read more about my [agile journey (coming coon)](#)
+* ⚡  Fun fact: I ❤️ 🏋️ and ⚽
+
+📘 &nbsp;**Latest Blog Posts**
+
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="https://dev.to/rkkoranteng" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="rkkoranteng" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/richard-koranteng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rkkoranteng" height="30" width="40" /></a>
 
 <strong>I'm a Senior Database Engineer, Consultant, and DBA Advocate.</strong>
 
