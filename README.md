@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/richard-koranteng"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
+[![blog : my-agile-journey](https://github.com/RKKoranteng/my-agile-journey/actions/workflows/jekyll.yml/badge.svg?branch=main)](https://github.com/RKKoranteng/my-agile-journey/actions/workflows/jekyll.yml) <a href="https://www.linkedin.com/in/richard-koranteng"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
 
 ### Hi, welcome <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
