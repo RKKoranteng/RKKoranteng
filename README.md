@@ -6,14 +6,13 @@ Wow, you made it to my GitHub! That's great for both of us. This is the place wh
 
 * 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 😉
 * 💬  Ask me about anything related to databases or how to automate database workloads
-* 👨‍💻  I help businesses modernize their database ecosystem <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
+* 👨‍💻  The rumors are true. I help businesses modernize their database ecosystem.
 * 🌱  Check out my blog : [@my-agile-journey](https://rkkoranteng.github.io/my-agile-journey/)
 * ⚡  Fun fact: I ❤️ 🏋️
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
 🔗 &nbsp; **Connect with me**
-* Agile database consulting <a href="https://rkkoranteng.com" target="blank">@rkkoranteng.com</a>
 * LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
 * Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
