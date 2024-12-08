@@ -4,10 +4,10 @@
 
 Wow, you made it to my GitHub! That's great for both of us. This is the place where I open-source stuff 👍
 
+* 🌱  Check out my blog : [rkkoranteng.com](https://rkkoranteng.com)
 * 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 😉
 * 💬  Ask me about anything related to databases or how to automate database workloads
 * 👨‍💻  The rumors are true. I help businesses modernize their database ecosystem.
-* 🌱  Check out my blog : [@my-agile-journey](https://rkkoranteng.github.io/my-agile-journey/)
 * ⚡  Fun fact: I ❤️ 🏋️
 
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
