@@ -5,7 +5,7 @@
 Wow, you made it to my GitHub! That's great for both of us. This is the place where I open-source stuff 👍
 
 * 🌱  Check out my blog : [rkkoranteng.com](https://rkkoranteng.com)
-* 🔭  I’m currently working on something cool. Here's [my public kanban board](https://github.com/users/RKKoranteng/projects/23) 😉
+* 🔭  I’m currently working on something cool. [Check out my project board](https://github.com/RKKoranteng?tab=projects) 😉
 * 💬  Ask me about anything related to databases or how to automate database workloads
 * 👨‍💻  The rumors are true. I help businesses modernize their database ecosystem.
 * ⚡  Fun fact: I ❤️ 🏋️
@@ -13,8 +13,9 @@ Wow, you made it to my GitHub! That's great for both of us. This is the place wh
 <!-- 📘 &nbsp;**Latest Blog Posts** -->
 
 🔗 &nbsp; **Connect with me**
-* LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
-* Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
+* 📆 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2BMW_ebBrDPEnl5n3oiZziXvGFj0LRBzxEQZTsjCmE_M-OWgymxc6LqCIRmCe96LgKfmeK87OT" target="blank">Schedule a Call</a>
+* 📘 LinkedIn <a href="https://www.linkedin.com/in/richard-koranteng" target="blank">@richard-koranteng</a>
+* 👍 Got an offer for me? Email me at [richard@rkkoranteng.com](mailto:richard@rkkoranteng.com)
 
 ✨ &nbsp; **About Me**
 
