@@ -5,7 +5,7 @@
 Wow, you made it to my GitHub! That's great for both of us. This is the place where I open-source stuff 👍
 
 * 😏  I'm Principal Consultant @ [rkkoranteng.com](https://rkkoranteng.com) 
-* 🖋️  I blog about what I've learned : [blog.rkkoranteng.com](https://blog.rkkoranteng.com)
+* 🖋️  I blog about what I've learned @ [blog.rkkoranteng.com](https://blog.rkkoranteng.com)
 * 💬  Ask me about anything related to databases or how to automate database workloads
 * ✨  The rumors are true. I help businesses modernize their database ecosystem.
 * ⚡  Fun fact: I ❤️ 🏋️
