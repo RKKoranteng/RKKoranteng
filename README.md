@@ -1,5 +1,4 @@
-<a href="https://www.linkedin.com/in/richard-koranteng"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a>
-
+<!-- <a href="https://www.linkedin.com/in/richard-koranteng"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=profile&color=blue"></a> -->
 ### Hi, welcome <a href="https://rkkoranteng.com/" target="blank"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 Wow, you made it to my GitHub! That's great for both of us. This is the place where I open-source stuff 👍
